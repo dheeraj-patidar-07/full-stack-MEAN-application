@@ -54,6 +54,35 @@ Pipeline Steps:
 
 ---
 
+
+GitHub Actions will:
+
+- Build Images
+- Push Images
+- Deploy Application
+
+---
+
+# Features
+
+- Full Stack CRUD Application
+- REST API Integration
+- Angular Frontend
+- Node.js Backend
+- MongoDB Database
+- Docker Containerization
+- Docker Compose Setup
+- GitHub Actions CI/CD
+- Nginx Reverse Proxy
+- AWS Deployment
+
+---
+
+# Clean Up Containers
+
+Stop containers:
+
+
 # Deployment Steps
 
 ## Step 1: Clone Repository
